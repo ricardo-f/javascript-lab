@@ -3,6 +3,7 @@
 ## Objective:
 
 Create a number guessing game with web interface and dynamic actions.
+
 ## The brief how:
 
 Using JavaScript and DOM to change elements across the web page.
